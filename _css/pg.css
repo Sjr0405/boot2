@@ -1,0 +1,9 @@
+/*CLASSE REFERENTE A LOGO DA NAV */
+.logo{
+    width: 160px;
+}
+
+/*DETERMINAR TAMANHO DAS IMAGENS CARROSEL*/
+#imgBanner{
+    height: 450px;
+}
