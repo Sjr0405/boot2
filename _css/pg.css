@@ -46,6 +46,7 @@
 
 /*SEÇÃO SERVIÇOS*/
 #blocos{
+    margin: 5px;
     margin-bottom: 100px;
 }
 
@@ -56,4 +57,39 @@
     margin-top: 40px;
     margin-bottom: 40px;
     font-family: "Bebas Neue", sans-serif;
+}
+
+.destaque-texto{
+    color: #3498db;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.destaque{
+    color: #000000;
+    font-size: 14px;
+    padding: 15px;
+    padding-top: 10px;
+}
+
+.icones{
+    color: #3498db;
+    font-size: 41px;
+    padding-bottom: 10px;
+}
+
+.bt-enviar{
+    width: 100%;
+}
+
+/*FOOTER*/
+footer{
+    margin-top: 40px;
+    background: linear-gradient(90deg, rgba(255,255,255,1)0%, rgba(248,193,19,1)100%);
+}
+
+.logo_footer{
+    height: 120px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
